@@ -1,4 +1,4 @@
-From Centos:7.6.1810
+FROM Centos:7.6.1810
 RUN yum install -y wget
 
 #Internet Explorer
